@@ -30,7 +30,7 @@ npm install -g yo generator-express-no-stress
 ## Scaffold
 
 ```shell
-yo express-no-stress myapp
+yo express-no-stress m2u
 cd myapp
 ```
 
